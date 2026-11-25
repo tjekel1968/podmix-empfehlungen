@@ -2,13 +2,41 @@
   "version": 1,
   "title": "Von Thorsten Jekel empfohlen",
   "items": [
-    { "appleId": 955053326, "note": "Mein eigener Podcast: KI und Produktivität für Führungskräfte." },
-    { "appleId": 1374777021, "note": "ZEIT-Gespräche ohne Zeitlimit – der Gast bestimmt, wann alles gesagt ist." },
-    { "appleId": 1519234952, "note": "Tech, Börse und Plattform-Ökonomie mit Philipp Glöckler und Philipp Klöckner." },
-    { "appleId": 1697851853, "note": "Deutschlandfunk erklärt Künstliche Intelligenz verständlich und kritisch." },
-    { "appleId": 1092957894, "note": "Der Politik-Podcast aus Berlin mit Philip Banse und Ulf Buermeyer." },
-    { "appleId": 1853041769, "note": "Miriam Meckel und Sebastian Matthes über Wirtschaft, Technologie und Gesellschaft." },
-    { "appleId": 1725152123, "note": "Der tägliche Politik- und Wirtschafts-Podcast von Table.Briefings." },
-    { "appleId": 1522455553, "note": "Markus Koch berichtet täglich von der Wall Street." }
+    {
+      "appleId": 955053326,
+      "note": "Mein eigener Podcast: KI und Produktivität für Führungskräfte."
+    },
+    {
+      "appleId": 1374777021,
+      "note": "ZEIT-Gespräche ohne Zeitlimit – der Gast bestimmt, wann alles gesagt ist."
+    },
+    {
+      "appleId": 1519234952,
+      "note": "Tech, Börse und Plattform-Ökonomie mit Philipp Glöckler und Philipp Klöckner."
+    },
+    {
+      "appleId": 1697851853,
+      "note": "Deutschlandfunk erklärt Künstliche Intelligenz verständlich und kritisch."
+    },
+    {
+      "appleId": 1092957894,
+      "note": "Der Politik-Podcast aus Berlin mit Philip Banse und Ulf Buermeyer."
+    },
+    {
+      "appleId": 1853041769,
+      "note": "Miriam Meckel und Sebastian Matthes über Wirtschaft, Technologie und Gesellschaft."
+    },
+    {
+      "appleId": 1725152123,
+      "note": "Der tägliche Politik- und Wirtschafts-Podcast von Table.Briefings."
+    },
+    {
+      "appleId": 1522455553,
+      "note": "Markus Koch berichtet täglich von der Wall Street."
+    },
+    {
+      "appleId": 665733012,
+      "note": "Bernd Geropp bringt Führungsthemen kurz und praxisnah auf den Punkt."
+    }
   ]
 }
